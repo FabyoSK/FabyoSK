@@ -11,6 +11,6 @@ I'm a **Fullstack developer**.
 
 - [Twitter](https://twitter.com/FabyoSK)
 - [LinkedIn](https://www.linkedin.com/in/fabyosk)
-
+----
 ![FabyoSK's github stats](https://github-readme-stats.vercel.app/api?username=FabyoSK&theme=dracula&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabyoSK&theme=dracula)
