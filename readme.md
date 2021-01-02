@@ -12,5 +12,10 @@ I'm a **Fullstack developer**.
 - [Twitter](https://twitter.com/FabyoSK)
 - [LinkedIn](https://www.linkedin.com/in/fabyosk)
 ----
-![FabyoSK's github stats](https://github-readme-stats.vercel.app/api?username=FabyoSK&theme=dracula&show_icons=true&count_private=true&line_height=40)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabyoSK&theme=dracula)
+![FabyoSK's github stats](https://github-readme-stats.vercel.app/api?username=FabyoSK&theme=white&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabyoSK&theme=white)
+
+<!-- POINTS --->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FabyoSK&margin-w=7" alt="FabyoSK points" />
+</p>
