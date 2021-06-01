@@ -19,3 +19,5 @@ I'm a **Fullstack developer**.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FabyoSK&margin-w=7" alt="FabyoSK points" />
 </p>
+
+![Snake animation](https://github.com/FabyoSK/FabyoSK/blob/output/github-contribution-grid-snake.svg)
