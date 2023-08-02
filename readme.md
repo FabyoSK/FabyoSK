@@ -1,14 +1,13 @@
-Hi, call me Alves 👋. I'm a Software Engineer.
+Hello there, I'm Alves, your friendly neighborhood Software Engineer! 👋
 
-### About me ✍🏽 :
-- 🧑🏽‍💻 I am a Software Engineer specializing in delivering high-quality Front-end solutions.
-- 📦 My engineering background encompasses various technologies, including React web apps and Node.js monoliths and micro-services.
-- 💻 I enjoy exploring the capabilities of modern tools and leveraging them to create innovative and flexible solutions.
-- 📝 I possess strong fundamentals in object-oriented design, data structures, algorithms, and problem-solving.
-- 🖥 I have experience in web, mobile, and backend development.
-- 🌱 Currently, I am working at chuva.io.
-- 🌱 I am also expanding my knowledge in the field of ML (Machine Learning).
-- 🧠 My mindset revolves around the belief that "no amount of knowledge is enough knowledge."
+Let's dive into the exciting world of tech and get to know me a bit better! ✍🏽
+- 🧑🏽‍💻 At heart, I'm a Software Engineer with a passion for creating dazzling Front-end solutions.
+- 📦 My engineering background is a colorful mix of React web apps and Node.js monoliths and micro-services.
+- 💻 I'm an explorer by nature, always seeking out the latest and greatest tools to craft innovative and flexible solutions.
+- 📝 When it comes to the core, I've got my fundamentals in object-oriented design, data structures, algorithms, and problem-solving locked in.
+- 🖥 I'm a versatile developer, with experience in web, mobile, and backend development.
+
+🚀 Let's make some software magic happen! 💻✨
 
 ### Languages I use
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
