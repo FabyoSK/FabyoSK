@@ -1,12 +1,10 @@
 Hello there, I'm Alves, your friendly neighborhood Software Engineer! 👋
 
-Let's dive into the exciting world of tech and get to know me a bit better! ✍🏽
-- 🧑🏽‍💻 At heart, I'm a Software Engineer with a passion for creating dazzling Front-end solutions.
-- 📦 My engineering background is a colorful mix of React web apps and Node.js monoliths and micro-services.
-- 💻 I'm an explorer by nature, always seeking out the latest and greatest tools to craft innovative and flexible solutions.
-- 📝 When it comes to the core, I've got my fundamentals in object-oriented design, data structures, algorithms, and problem-solving locked in.
-- 🖥 I'm a versatile developer, with experience in web, mobile, and backend development.
+A highly skilled Software Engineer with a focus on delivering top-notch Front-end solutions. My engineering expertise covers a wide array of domains, spanning from crafting React web applications to designing intricate and resilient Backend solutions.
 
+In addition to my professional endeavors, I'm deeply involved in open-source contributions, driven by my dedication to pushing the boundaries of software development and disseminating knowledge within the wider community.
+
+But that's not all – I also thrive in the realm of cybersecurity. I'm not just an accomplished CTF (Capture The Flag) player; I'm a passionate Red Team enthusiast. This showcases my exceptional problem-solving skills and prowess in competitive hacking challenges and cyber security assessments.
 🚀 Let's make some software magic happen! 💻✨
 
 ### Languages I use
