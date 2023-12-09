@@ -1,8 +1,6 @@
 Hello there, I'm Alves, your friendly neighborhood Software Engineer! 👋
 
-A highly skilled Software Engineer with a focus on delivering top-notch Front-end solutions. My engineering expertise covers a wide array of domains, spanning from crafting React web applications to designing intricate and resilient Backend solutions.
-
-In addition to my professional endeavors, I'm deeply involved in open-source contributions, driven by my dedication to pushing the boundaries of software development and disseminating knowledge within the wider community.
+As a versatile and fast-paced Software Engineer, I am the driving force behind both backend and frontend code contributions in my current role. My expertise lies in organizing sprints and managing release cycles, ensuring the smooth operation of our engineering team. One of my most significant achievements is the creation of an innovative app that facilitates instant money transfers in and to Cabo Verde, serving thousands of users both locally and internationally. With a proven track record in delivering efficient solutions, I am not just a developer, but a vital core of the team. My passion for coding, coupled with my ability to learn and adapt, makes me a valuable asset in any software development project.
 
 But that's not all – I also thrive in the realm of cybersecurity. I'm not just an accomplished CTF (Capture The Flag) player; I'm a passionate Red Team enthusiast. This showcases my exceptional problem-solving skills and prowess in competitive hacking challenges and cyber security assessments.
 🚀 Let's make some software magic happen! 💻✨
